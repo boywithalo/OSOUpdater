@@ -5,7 +5,9 @@
     font-family: "Yeseva One";
     
 }
-
+.showno{
+    display:block;
+}
 /*remove if update
 .showno{
     display: none;
